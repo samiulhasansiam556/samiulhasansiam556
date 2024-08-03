@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Samiul Hasan Siam
-#### I am MERN Stack Developer Developer
+#### I am MERN Stack Developer
 
 As a Computer Science student at Daffodil International University, I specialize in MERN Stack Development. Proficient in HTML, CSS, Tailwind CSS, JavaScript, React.js, Node.js, Express.js and MongoDB I craft user-friendly interfaces and thrive on continuous learning. Passionate about pushing boundaries, I'm dedicated to creating impactful digital experiences. Let's connect for discussions on MERN Stack Development, tech trends, or exciting opportunities! #WebDevelopment #MernStack #TechEnthusiast
 
