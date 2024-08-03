@@ -1,12 +1,11 @@
 ### Hi there 👋, my name is Samiul Hasan Siam
-#### I am Front-end Developer
-![I am Front-end Developer](https://media.licdn.com/dms/image/D4D16AQEQhlQ8MIiRBA/profile-displaybackgroundimage-shrink_350_1400/0/1701987781097?e=1710979200&v=beta&t=4-Sj6YKuNvZpMHiYyw9TyFYSgF_KXCJj01miypmu1g4)
+#### I am MERN Stack Developer Developer
 
-🚀 As a Computer Science student at Daffodil International University, I specialize in Front-End Development. Proficient in HTML, CSS, Bootstrap, JavaScript, React.js, and Next.js, I craft user-friendly interfaces and thrive on continuous learning. Passionate about pushing boundaries, I'm dedicated to creating impactful digital experiences. Let's connect for discussions on front-end development, tech trends, or exciting opportunities! 💻✨ #WebDevelopment #FrontEnd #TechEnthusiast
+As a Computer Science student at Daffodil International University, I specialize in MERN Stack Development. Proficient in HTML, CSS, Tailwind CSS, JavaScript, React.js, Node.js, Express.js and MongoDB I craft user-friendly interfaces and thrive on continuous learning. Passionate about pushing boundaries, I'm dedicated to creating impactful digital experiences. Let's connect for discussions on MERN Stack Development, tech trends, or exciting opportunities! #WebDevelopment #MernStack #TechEnthusiast
 
-Skills: NEXT.JS / REACT / JS / HTML / CSS/BOOTSTRAP
+Skills:  HTML / CSS / TAILWIND CSS / JS / REACT / NODE.JS / EXPRESS.JS / MONGODB
 
-- 🌱 I’m currently learning Node.js and Express.js 
+- 🌱 I’m currently Learning Next.js & TypeScript 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: samiulhasansiam556@gmail.com 
