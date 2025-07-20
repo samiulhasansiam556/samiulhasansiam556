@@ -1,13 +1,13 @@
 ### Hi there 👋, My name is Samiul Hasan Siam
 #### I am Full-Stack Web Developer
 
-As a Computer Science student at Daffodil International University, I specialize in MERN Stack Development. Proficient in HTML, CSS, Tailwind CSS,Bootstrap,JavaScript, React.js,Redux,Node.js, Express.js and MongoDB I craft user-friendly interfaces and thrive on continuous learning. Passionate about pushing boundaries, I'm dedicated to creating impactful digital experiences. Let's connect for discussions on MERN Stack Development, tech trends, or exciting opportunities! #WebDevelopment #MernStack #TechEnthusiast
+As a Computer Science student at Daffodil International University, I specialize in MERN Stack Development. Proficient in HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React.js, Redux, Next.Js, Node.js, Express.js MongoDB,TypeScript, Mysql, PostgreSQL, Redis . I craft user-friendly interfaces and thrive on continuous learning. Passionate about pushing boundaries, I'm dedicated to creating impactful digital experiences. Let's connect for discussions on MERN Stack Development, tech trends, or exciting opportunities! #WebDevelopment #MernStack #TechEnthusiast
 
 
-Skills:  HTML / CSS / TAILWIND CSS / BOOTSTRAP / JS / REACT / Redux / NODE.JS / EXPRESS.JS / MONGODB
+Skills:  HTML / CSS / TAILWIND CSS / BOOTSTRAP / JS / REACT / Redux / NEXT / NODE.JS / EXPRESS.JS / MONGODB / TYPESCRIPT  / MYSQL / POSTGREQL / REDIS 
 
 
-- 🌱 I’m currently Learning Next.js & TypeScript 
+- 🌱 I’m currently Learning Advanced Backend System Architecture and Scaling
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: samiulhasansiam556@gmail.com 
